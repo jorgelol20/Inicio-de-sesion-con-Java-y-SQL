@@ -49,9 +49,9 @@ CREATE TABLE `usuarios` (
 --
 
 INSERT INTO `usuarios` (`user`, `password`, `puntos`, `monedas`) VALUES
-('Jorge', 'HZnQ', 7500, 0),
+('Jorge', '1234', 7500, 3),
 ('Hola', 'Hola', 1000, 3),
-('Jorgelol20', 'HZnQ#1705', 1350, 3);
+('Prueba', '1234', 1350, 3);
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
